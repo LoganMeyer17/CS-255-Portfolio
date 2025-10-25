@@ -1,7 +1,7 @@
 # CS-255-Portfolio
 
 **Briefly summarize the DriverPass project. Who was the client? What type of system did they want you to design?**
-The DriverPass project was designed for a client who wanted an online system to help students get ready for their DMV driving tests. The idea was to make studying and scheduling lessons easier by combining everything in one place. Students could sign up, take practice tests, track their progress, and book in-person driving lessons. Instructors and administrators would use the same system to manage schedules, lesson details, and test content. The goal was to create something that made learning more convenient while improving student pass rates.
+      The DriverPass project was designed for a client who wanted an online system to help students get ready for their DMV driving tests. The idea was to make studying and scheduling lessons easier by combining everything in one place. Students could sign up, take practice tests, track their progress, and book in-person driving lessons. Instructors and administrators would use the same system to manage schedules, lesson details, and test content. The goal was to create something that made learning more convenient while improving student pass rates.
 
 **What did you do particularly well?**
 One thing I’m proud of is how clearly I captured what the client needed and turned those ideas into detailed requirements. I made sure that every feature connected to a real goal, like improving accessibility or keeping data secure. I also think I did a strong job organizing the technical design in a way that would make the system reliable and easy to maintain. My documents explain not only what the system should do but also how each part supports the overall purpose.
